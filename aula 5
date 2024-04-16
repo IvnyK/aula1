@@ -1,0 +1,14 @@
+<!DOCTYPE HTML >
+<html nlang = "pt-br">
+    <head>
+       <meta charset = "UTF-8">
+       <META NAME = "VIEWPORT" CONTENT="WIDHT=DEVICE-WIDHT,INITIAL-SCALE=1.0" >
+        <title>AULA 5</title>
+    </head>
+    <BODY>
+        <H1>Exercício de HTML</H1>
+        <P>Esta tag que ccontém abertura e fechamento é um parágrafo</P>
+        <P>Este é o segundo parágrafo</P>
+        <blockquote>Estou aprendendo HTML com o professor Edy</blockquote>
+    </BODY>
+    </html>
