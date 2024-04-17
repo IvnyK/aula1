@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre mim</title>
+</head>
+<body>
+    <h1>Biografia</h1>
+    <P>Meu nome é Ivny Kayanne</P>
+    <p>Pretendo cursa psicopedagogia</p>
+    <p>Meu lema é ter perseverança</p>
+    <p>Minha cor preferida é roxo</p>
+    <img src="c:\Users\Operador PC\Downloads\WhatsApp Image 2024-04-17 at 07.45.06.jpeg" width="275px" height="300px" >
+</body>
+</html>
